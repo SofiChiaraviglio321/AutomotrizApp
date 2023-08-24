@@ -1,0 +1,216 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{064DCCE5-1C0E-4081-BE30-75DA434C61FE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AutomotizApp</RootNamespace>
+    <AssemblyName>AutomotizApp</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.140.340.80\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Datos\accesoDatos.cs" />
+    <Compile Include="Datos\implementacion\FacturaAccDto.cs" />
+    <Compile Include="Datos\interfaz\IFacturaAccDto.cs" />
+    <Compile Include="Dominio\Barrio.cs" />
+    <Compile Include="Dominio\Cliente.cs" />
+    <Compile Include="Dominio\DetalleFactura.cs" />
+    <Compile Include="Dominio\DetalleOrdenPedido.cs" />
+    <Compile Include="Dominio\Factura.cs" />
+    <Compile Include="Dominio\FormasEnvio.cs" />
+    <Compile Include="Dominio\FormasPago.cs" />
+    <Compile Include="Dominio\Localidad.cs" />
+    <Compile Include="Dominio\Marcas.cs" />
+    <Compile Include="Dominio\Producto.cs" />
+    <Compile Include="Dominio\Provincia.cs" />
+    <Compile Include="Dominio\TiposClientes.cs" />
+    <Compile Include="Dominio\TiposDocumento.cs" />
+    <Compile Include="Dominio\TiposProductos.cs" />
+    <Compile Include="Presentacion\FrmFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmFactura.Designer.cs">
+      <DependentUpon>FrmFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmInicio.Designer.cs">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentacion\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentacion\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reportes\DSListado.cs">
+      <DependentUpon>DSListado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DSListado.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSListado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DSReportes.cs">
+      <DependentUpon>DSReportes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\DSReportes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSReportes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmListado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmListado.Designer.cs">
+      <DependentUpon>FrmListado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\FrmReporte1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\FrmReporte1.Designer.cs">
+      <DependentUpon>FrmReporte1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\FabricaServicio.cs" />
+    <Compile Include="Servicios\FabricaServicioImp.cs" />
+    <Compile Include="Servicios\Implementacion\Servicio.cs" />
+    <Compile Include="Servicios\Interfaz\IServicio.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="Presentacion\FrmFactura.resx">
+      <DependentUpon>FrmFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmInicio.resx">
+      <DependentUpon>FrmInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentacion\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Reportes\FrmListado.resx">
+      <DependentUpon>FrmListado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\FrmReporte1.resx">
+      <DependentUpon>FrmReporte1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ListadoFacturacion.rdlc" />
+    <EmbeddedResource Include="Reportes\Reporte1.rdlc" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Reportes\DSListado.xsc">
+      <DependentUpon>DSListado.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DSListado.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSListado.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DSListado.xss">
+      <DependentUpon>DSListado.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DSReportes.xsc">
+      <DependentUpon>DSReportes.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\DSReportes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSReportes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\DSReportes.xss">
+      <DependentUpon>DSReportes.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

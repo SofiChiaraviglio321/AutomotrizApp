@@ -1,0 +1,205 @@
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizApp\obj\Debug\AutomotizApp.csproj.AssemblyReference.cache
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizApp\obj\Debug\AutomotizApp.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizApp\obj\Debug\AutomotizApp.Presentacion.FrmFactura.resources
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizApp\obj\Debug\AutomotizApp.FrmInicio.resources
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizApp\obj\Debug\AutomotizApp.Properties.Resources.resources
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizApp\obj\Debug\AutomotizApp.csproj.GenerateResource.cache
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizApp\obj\Debug\AutomotizApp.csproj.CoreCompileInputs.cache
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizApp\bin\Debug\AutomotizApp.exe.config
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizApp\bin\Debug\AutomotizApp.exe
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizApp\bin\Debug\AutomotizApp.pdb
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizApp\obj\Debug\AutomotizApp.exe
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizApp\obj\Debug\AutomotizApp.pdb
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizConSoloFactura\AutomotizApp\bin\Debug\AutomotizApp.exe.config
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizConSoloFactura\AutomotizApp\bin\Debug\AutomotizApp.exe
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizConSoloFactura\AutomotizApp\bin\Debug\AutomotizApp.pdb
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizConSoloFactura\AutomotizApp\obj\Debug\AutomotizApp.csproj.AssemblyReference.cache
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizConSoloFactura\AutomotizApp\obj\Debug\AutomotizApp.csproj.SuggestedBindingRedirects.cache
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizConSoloFactura\AutomotizApp\obj\Debug\AutomotizApp.Presentacion.FrmFactura.resources
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizConSoloFactura\AutomotizApp\obj\Debug\AutomotizApp.FrmInicio.resources
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizConSoloFactura\AutomotizApp\obj\Debug\AutomotizApp.Properties.Resources.resources
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizConSoloFactura\AutomotizApp\obj\Debug\AutomotizApp.csproj.GenerateResource.cache
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizConSoloFactura\AutomotizApp\obj\Debug\AutomotizApp.csproj.CoreCompileInputs.cache
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizConSoloFactura\AutomotizApp\obj\Debug\AutomotizApp.exe
+D:\VisualStudio-Proyectos\CSharp\BackUP\AutomotizConSoloFactura\AutomotizApp\obj\Debug\AutomotizApp.pdb
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\AutomotizApp.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\AutomotizApp.exe
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\AutomotizApp.pdb
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\obj\Debug\AutomotizApp.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\obj\Debug\AutomotizApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\obj\Debug\AutomotizApp.Presentacion.FrmFactura.resources
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\obj\Debug\AutomotizApp.FrmInicio.resources
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\obj\Debug\AutomotizApp.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\obj\Debug\AutomotizApp.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\obj\Debug\AutomotizApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\obj\Debug\AutomotizApp.exe
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\obj\Debug\AutomotizApp.pdb
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\stdole.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\obj\Debug\AutomotizApp.Reportes.FrmReporte1.resources
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\obj\Debug\AutomotizApp.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\AutomotizApp\obj\Debug\AutomotizApp.Reportes.FrmListado.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\AutomotizApp.exe.config
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\AutomotizApp.exe
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\AutomotizApp.pdb
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\EnvDTE.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\stdole.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.csproj.AssemblyReference.cache
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.csproj.SuggestedBindingRedirects.cache
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.Presentacion.FrmFactura.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.FrmInicio.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.Properties.Resources.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.Reportes.FrmListado.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.Reportes.FrmReporte1.resources
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.csproj.GenerateResource.cache
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.csproj.CoreCompileInputs.cache
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.csproj.CopyComplete
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.exe
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.pdb
+D:\EscritorioCremona\programacion\Facultad-UTNFRC\2_ -2do cuatrimestre\Programacion 2\TrabajoProgra\App\AutomotizApp\obj\Debug\AutomotizApp.Presentacion.FrmLogin.resources
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\AutomotizApp.exe.config
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\AutomotizApp.exe
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\AutomotizApp.pdb
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\EnvDTE.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\stdole.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\Microsoft.MSXML.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.csproj.AssemblyReference.cache
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.csproj.SuggestedBindingRedirects.cache
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.Presentacion.FrmFactura.resources
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.FrmInicio.resources
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.Presentacion.FrmLogin.resources
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.Properties.Resources.resources
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.Reportes.FrmListado.resources
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.Reportes.FrmReporte1.resources
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.csproj.GenerateResource.cache
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.csproj.CoreCompileInputs.cache
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.csproj.CopyComplete
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.exe
+C:\sofi\sofia\UTN\Programacionll\final progra ll\AutomotizApp (3)\AutomotizApp\obj\Debug\AutomotizApp.pdb
